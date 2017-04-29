@@ -26,7 +26,9 @@
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/photo26.jpg",
     "noImageResize": "true",
-    "google-analytics": "oued-rhiou-Music"
+    "google-analytics": "oued-rhiou-Music",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "OUED RHIOU.html": {
